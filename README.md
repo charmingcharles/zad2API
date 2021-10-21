@@ -1,6 +1,6 @@
 # zad2API
 
-##Zwracanie przekazanego tekstu
+## Zwracanie przekazanego tekstu
 Jeśli przekażemy naszemu API jakiś tekst i odwołamy się do tego adresu to dostaniemy jako zwrotną odpowiedź
 tekst który przekazaliśmy:
 ```
